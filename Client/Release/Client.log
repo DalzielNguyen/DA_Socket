@@ -1,0 +1,23 @@
+﻿  ChatControl.cpp
+  ChatStruct.cpp
+  LoginNotificationStruct.cpp
+  LoginStruct.cpp
+  LogoutNotificationStruct.cpp
+  PrivateFileStruct.cpp
+  PrivateMessageStruct.cpp
+  PublicMessageStruct.cpp
+  RequestSendFileStruct.cpp
+  ResponseLoginStruct.cpp
+  ResponseSendFileStruct.cpp
+  ResponseSignupStruct.cpp
+  SignupStruct.cpp
+  UserStatusStruct.cpp
+  AppController.cpp
+c:\users\dalziel\desktop\socket-chatapp-dot-net-master\source\client\appcontroller.cpp(37): warning C4101: 'e': unreferenced local variable
+  LoginScreen.cpp
+  Main.cpp
+  MainScreen.cpp
+  PrivateChat.cpp
+c:\users\dalziel\desktop\socket-chatapp-dot-net-master\source\client\privatechat.cpp(13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Generating Code...
+  Client.vcxproj -> C:\Users\Dalziel\Desktop\socket-chatapp-dot-net-master\Source\Release\Client.exe
