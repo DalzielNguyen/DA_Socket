@@ -1,0 +1,8 @@
+﻿  ClientInfo.cpp
+  Main.cpp
+  MainScreen.cpp
+c:\users\dalziel\desktop\socket-chatapp-dot-net-master\source\server\mainscreen.cpp(98): warning C4101: 'e': unreferenced local variable
+  ServerController.cpp
+c:\users\dalziel\desktop\socket-chatapp-dot-net-master\source\server\servercontroller.cpp(144): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  Server.vcxproj -> C:\Users\Dalziel\Desktop\socket-chatapp-dot-net-master\Source\Release\Server.exe
